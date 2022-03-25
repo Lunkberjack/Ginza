@@ -129,7 +129,7 @@ hamburguesa en móvil, que queda bastante mal */
 }
 
 .dropdown a:focus,
-.dropdwon a:active {
+.dropdown a:active {
     /* Si no añadimos esta línea, el color de "Otros" vuelve al azul
        cuando se pulsa y aparece el menú desplegable */
     color: #D10C0C;
